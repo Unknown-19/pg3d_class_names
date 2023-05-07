@@ -1,0 +1,15 @@
+MaxEvents
+MaxSdk
+MaxSdkAndroid
+MaxSdkBase
+AdPositionExtenstion
+MaxSdkCallbacks
+MaxSdkiOS
+MaxSdkLogger
+MaxSdkUtils
+MaxTargetingData
+MaxUserSegment
+MaxUserServiceAndroid
+MaxUserServiceUnityEditor
+MaxVariableServiceAndroid
+MaxVariableServiceUnityEditor
